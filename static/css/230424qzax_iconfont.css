@@ -1,0 +1,77 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4040729 */
+  src: url('../fonts/230424qzax_iconfont.eot'); /* IE9 */
+  src: url('../fonts/230424qzax_iconfont.eot') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/230424qzax_iconfont.woff2') format('woff2'),
+       url('../fonts/230424qzax_iconfont.woff') format('woff'),
+       url('../fonts/230424qzax_iconfont.ttf') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.qzax_techan2:before {
+  content: "\e60b";
+}
+
+.qzax_mingrenmingyan3:before {
+  content: "\e60a";
+}
+
+.qzax_lishiyange2:before {
+  content: "\e608";
+}
+
+.qzax_dilihuanjing2:before {
+  content: "\e607";
+}
+
+.qzax_shouhuodizhi:before {
+  content: "\e64e";
+}
+
+.qzax_ziranziyuan:before {
+  content: "\e606";
+}
+
+.qzax_shehuishiye:before {
+  content: "\e605";
+}
+
+.qzax_jingjifazhan:before {
+  content: "\e604";
+}
+
+.qzax_ditu:before {
+  content: "\e655";
+}
+
+.qzax_menu_hangzhengquhuaguanli:before {
+  content: "\e74e";
+}
+
+.qzax_huatong:before {
+  content: "\e609";
+}
+
+.qzax_wen:before {
+  content: "\e603";
+}
+
+.qzax_jianli:before {
+  content: "\e602";
+}
+
+.qzax_zxtw:before {
+  content: "\e601";
+}
+
+.qzax_ftsl:before {
+  content: "\e600";
+}
+
